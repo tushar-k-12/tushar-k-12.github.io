@@ -1,0 +1,29 @@
+header{
+text-align:center;
+box-sizing:border-box;
+color:orange;
+padding-top:30px;
+padding-bottom: 40px;
+}
+.education{
+border-top:3px solid black;
+border-bottom:3px solid black;
+}
+.main{
+max-width: 20%;
+box-sizing:border-box;
+
+}
+.top{
+box-sizing:border-box;
+max-width:20%;
+color: cyan;
+float:left;
+padding:30px 30px 30px 30px;
+}
+.ebody{
+box-sizing:border-box;
+max-width:80%;
+float:left;
+padding:30px 30px 30px 30px ; 
+
